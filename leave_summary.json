@@ -1,0 +1,12 @@
+{
+    "total_leaves": 162,
+    "peak_month": 6,
+    "department": {
+        "dept": 1,
+        "HR": 39,
+        "IT": 41,
+        "Finance": 31,
+        "Sales": 29,
+        "Marketing": 21
+    }
+}
